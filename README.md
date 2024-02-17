@@ -4,7 +4,7 @@ The portfolio showcases academic work from master's course assignments, demonstr
 ## Academic Material
 #### Mathematical Finance: This section contains three Python-based projects:
 
-[AMF1](Mathematical Finance/AMF1.ipynb): Calculation of European options.
+[AMF1](./Mathematical Finance/AMF1.ipynb): Calculation of European options.
 [AMF2](Mathematical Finance/AMF2.ipynb): Implied Volatility calculation for European options, including a Volatility Smile visualization in a JPG file.
 AMF_project OOP: Object-Oriented Programming approach to calculate various types of options.
 
