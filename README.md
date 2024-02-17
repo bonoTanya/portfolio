@@ -1,26 +1,28 @@
 # portfolio
-List of projects
+The portfolio showcases academic work from master's course assignments, demonstrating practical expertise in Applied Statistics, Econometrics, Mathematical Finance, and Artificial Intelligence (AI). Additionally, it includes projects utilizing Excel and SQL for analyzing sales data and formulating performance improvement recommendations, a Python project addressing a company's churn issue, and a functional specification report from my Albany Beck Business Analysis training.
 
-# Project Title: Enhancing Customer Trust through Sustainable Initiatives: An AI-Driven Approach 
-## The project is located in the AI-based Sentiment Analysis Folder as HSBC Project
+## Academic Material
+#### Mathematical Finance: This section contains three Python-based projects:
 
-### Project Description:
-In a world increasingly focused on sustainability, businesses face the challenge of authentically expressing their commitment to sustainable development. HSBC, a leading global bank, aimed to foster a deeper and more sincere connection with its customers in relation to green initiatives, all while avoiding direct advertising. The goal was to build trust and credibility around the bank's environmental activism. To achieve this, the project employed data science and artificial intelligence techniques.
+[AMF1](Mathematical Finance/AMF1.ipynb): Calculation of European options.
+[AMF2](Mathematical Finance/AMF2.ipynb): Implied Volatility calculation for European options, including a Volatility Smile visualization in a JPG file.
+AMF_project OOP: Object-Oriented Programming approach to calculate various types of options.
 
-### Approach:
-Three distinct strategies were formulated to address this challenge without directly promoting the bank's green initiatives. These strategies were designed to subtly convey HSBC's sincere commitment to sustainable development to its customers.
+### Applied Statistics and Econometrics (R-based):
 
-To gauge customer perspectives on these strategies, an online survey was conducted. Participants were asked to express their thoughts and attitudes toward each strategy in a few sentences. The next step was to employ AI-based sentiment analysis, using the Bidirectional Encoder Representations from Transformer (BERT) model. This model effectively analyzed people's opinions and emotions, providing a numerical estimation of the sentiments associated with each strategy. The methodology calculated a satisfaction score on a scale from 1 to 5 for each response, producing a distribution of estimated emotions for each strategy.
+#### Applied Statistics: 
+Includes four sub-folders, each containing a PDF with tasks and solutions, R code files, and CSV data files:
 
-These distributions of customer sentiments were summarized by their mean values and compared using the statistical method of a t-test. This statistical approach helped identify the most effective strategy, as perceived by the survey participants.
+Assignment 1: Data visualization, linear regression analysis, linearity checks, and hypothesis testing with statistical t-tests.
+Assignment 2: Logistic regression and linear discriminant analysis for classification.
+Assignment 3: Classification using random forest and bagging methods.
+Additional Task: A 10-page report on a classification model to differentiate between two types of wine using five statistical methods.
+Econometrics: Features two sub-folders with PDFs for tasks and solutions, R code, and CSV data:
 
-### Results:
-As a result of this research, the project was able to quantify overall customer emotions associated with the strategies, effectively identifying the most successful approach in addressing the research problem. The investigation did face constraints due to sample size limitations caused by time constraints.
-
-This research not only offered valuable insights and potential solutions for HSBC to enhance its customer relationships through sustainable initiatives but also contributed to the field of BERT-based sentiment analysis, showcasing a novel application of this cutting-edge technology.
-
-In summary, this project serves as an innovative approach to bridge the gap between a corporate entity's sustainability efforts and its customers, potentially paving the way for more meaningful and authentic interactions in the era of sustainable development. Furthermore, it contributes to the growing body of knowledge in the field of AI-driven sentiment analysis.
-
+Task: Selection of a functional form for linear regression, heteroskedasticity identification, variance modeling, and t- and F-tests, concluding with a prediction model.
+Additional_task: Complex multiple linear regression modeling for future wage performance prediction.
+Dissertation on AI-based Sentiment Analysis:
+Focused on the HSBC project, my dissertation applied AI-based sentiment analysis to compare different strategies for improving trust between the bank and its customers. Utilizing Python and the nltk library, the model's construction is detailed in the "AI-based Sentiment Analysis" folder, accompanied by an academic report. The report covers task overview, AI mathematical theory, model construction, methodological steps, and outcomes.
 
 
 
