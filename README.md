@@ -1,5 +1,7 @@
 # portfolio
-The portfolio showcases academic work from master's course assignments, demonstrating practical expertise in Applied Statistics, Econometrics, Mathematical Finance, and Artificial Intelligence (AI). Additionally, it includes projects utilizing Excel and SQL for analyzing sales data and formulating performance improvement recommendations, a Python project addressing a company's churn issue, and a functional specification report from my Albany Beck Business Analysis training.
+The portfolio showcases academic work from master's course assignments, demonstrating practical expertise in Applied Statistics, Econometrics, Mathematical Finance, and Artificial Intelligence (AI). <br>
+
+Additionally, it includes projects utilizing Excel and SQL for analyzing sales data and formulating performance improvement recommendations, a Python project addressing a company's churn issue, and a functional specification report from my Albany Beck Business Analysis training.
 
 ## Academic Material
 #### [Mathematical Finance](./Mathematical%20Finance/) contains 3 Python-based projects: <br>
