@@ -8,8 +8,6 @@ The portfolio showcases academic work from master's course assignments, demonstr
 [AMF2](./Mathematical%20Finance/AMF2.ipynb): Implied Volatility calculation for European options, including a Volatility Smile visualization in a JPG file. <br>
 [AMF_project](./Mathematical%20Finance/AMF_project.ipynb) OOP: Object-Oriented Programming approach to calculate various types of options.<br>
 
-### Applied Statistics and Econometrics (R-based):
-
 #### [Applied Statistics](./Applied%20Statistics/) includes 4 sub-folders, each containing a PDF with tasks and solutions, R code files, and CSV data files:
 
 [Assignment 1](./Applied%20Statistics/Assignment%201/BPT1_.pdf): Data visualization, linear regression analysis, linearity checks, and hypothesis testing with statistical t-tests. <br>
