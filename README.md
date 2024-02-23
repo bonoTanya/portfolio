@@ -3,6 +3,29 @@ The portfolio showcases academic work from master's course assignments, demonstr
 
 Additionally, it includes projects utilizing Excel and SQL for analyzing sales data and formulating performance improvement recommendations, a Python project addressing a company's churn issue, and a functional specification report from my Albany Beck Business Analysis training.
 
+## Projects
+#### [Excel Data Analysis project – Review of sales and profitability](Excel%20projects/Selling%20project/Report_Excel_Tatiana.pdf)
+The report analyzes the company's sales and profitability to identify improvement areas and enhance sales.  <br>
+The initial analysis highlighted statistical insights and areas needing deeper investigation, revealing significant profitability and quality/service issues.  <br>
+Consequently, the report offers 5 specific recommendations to address these challenges. <br>
+#### BI Data Analysis Report - Review of GDP Economic Performance
+The report evaluates global economic performance by analyzing GDP data from various countries since 1961, using World Bank and OECD sources and Power BI for analysis.  <br>
+It starts with a global overview, and then examines regional and country-specific GDP trends to predict future economic patterns.  <br>
+The conclusion synthesizes the insights, offering a comprehensive summary of the findings. <br>
+#### Business Analysis – App Functional Specifications
+The project goal is to write the Functional Specification Document before 9th Feb. The report has detailed information on the steps of crafting the document during the first two days.  <br>
+As a result of the first days, the initial version of the document was created for key stakeholders to review.  <br>
+The following tools were utilized: Confluence, JIRA, Lucidchart, and Figma. <br>
+#### SQL Data Analysis – Pizza Selling Project
+The project seeks to boost pizza sales and profits next year through SQL analysis in MySQL Workbench.  <br>
+Objectives include evaluating current pizza sales to identify top and bottom performers, pinpointing peak and low order times, and generating actionable recommendations.  <br>
+The analysis yields six strategies for enhancing sales. <br>
+#### Python Data Analysis – Customer Churn Project
+The analysis aims to identify factors contributing to customer churn and offer recommendations to address the issue.  <br>
+The project is documented in two Python files: the first covers basic statistics, data visualization, price sensitivity analysis, and correlation with churn, revealing a low correlation with price.  <br>
+Based on these insights, the second file develops features affecting churn and constructs a predictive model using Random Forest.  <br>
+The analysis identifies net margin and consumption as the most influential factors on churn. <br>
+
 ## Academic Material
 #### [Mathematical Finance](./Mathematical%20Finance/) contains 3 Python-based projects: <br>
 
