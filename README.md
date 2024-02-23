@@ -8,22 +8,22 @@ Additionally, it includes projects utilizing Excel and SQL for analyzing sales d
 The report analyzes the company's sales and profitability to identify improvement areas and enhance sales.  <br>
 The initial analysis highlighted statistical insights and areas needing deeper investigation, revealing significant profitability and quality/service issues.  <br>
 Consequently, the report offers 5 specific recommendations to address these challenges. <br>
-#### BI Data Analysis Report - Review of GDP Economic Performance
+#### [BI Data Analysis Report - Review of GDP Economic Performance](Power%20BI/Economic%20Performance%20Report/GDP%20Economic%20Performance%20Report.pdf)
 The report evaluates global economic performance by analyzing GDP data from various countries since 1961, using World Bank and OECD sources and Power BI for analysis.  <br>
 It starts with a global overview, and then examines regional and country-specific GDP trends to predict future economic patterns.  <br>
 The conclusion synthesizes the insights, offering a comprehensive summary of the findings. <br>
-#### Business Analysis – App Functional Specifications
-The project goal is to write the Functional Specification Document before 9th Feb. The report has detailed information on the steps of crafting the document during the first two days.  <br>
+#### [Business Analysis – App Functional Specifications](Functional%20Specification/TB-Initial%20Functional%20Specification-300124-232700.pdf)
+The project goal is to write the Functional Specification Document before 9th Feb. The [report](Functional%20Specification/TAA_project.pdf) has detailed information on the steps of crafting the document during the first two days.  <br>
 As a result of the first days, the initial version of the document was created for key stakeholders to review.  <br>
 The following tools were utilized: Confluence, JIRA, Lucidchart, and Figma. <br>
-#### SQL Data Analysis – Pizza Selling Project
+#### [SQL Data Analysis – Pizza Selling Project](SQL/Pizza%20selling%20project/PIZZA%20SELLING%20PROJECT.pdf)
 The project seeks to boost pizza sales and profits next year through SQL analysis in MySQL Workbench.  <br>
 Objectives include evaluating current pizza sales to identify top and bottom performers, pinpointing peak and low order times, and generating actionable recommendations.  <br>
 The analysis yields six strategies for enhancing sales. <br>
-#### Python Data Analysis – Customer Churn Project
+#### [Python Data Analysis – Customer Churn Project](SME%20Customer%20Churn%20Project)
 The analysis aims to identify factors contributing to customer churn and offer recommendations to address the issue.  <br>
-The project is documented in two Python files: the first covers basic statistics, data visualization, price sensitivity analysis, and correlation with churn, revealing a low correlation with price.  <br>
-Based on these insights, the second file develops features affecting churn and constructs a predictive model using Random Forest.  <br>
+The project is documented in two Python files: [the first](SME%20Customer%20Churn%20Project/stat_analysis.ipynb) covers basic statistics, data visualization, price sensitivity analysis, and correlation with churn, revealing a low correlation with price.  <br>
+Based on these insights, [the second](SME%20Customer%20Churn%20Project/feature_engineering_and_modelling_model_answer.ipynb) file develops features affecting churn and constructs a predictive model using Random Forest.  <br>
 The analysis identifies net margin and consumption as the most influential factors on churn. <br>
 
 ## Academic Material
