@@ -3,7 +3,7 @@ The portfolio showcases academic work from master's course assignments, demonstr
 
 Additionally, it includes projects utilizing Excel and SQL for analyzing sales data and formulating performance improvement recommendations, a Python project addressing a company's churn issue, and a functional specification report from my Albany Beck Business Analysis training.
 
-## Projects
+## Business Projects
 #### [Excel Data Analysis project – Review of sales and profitability](Excel%20projects/Selling%20project/Report_Excel_Tatiana.pdf)
 The report analyzes the company's sales and profitability to identify improvement areas and enhance sales.  <br>
 The initial analysis highlighted statistical insights and areas needing deeper investigation, revealing significant profitability and quality/service issues.  <br>
@@ -26,7 +26,7 @@ The project is documented in two Python files: [the first](SME%20Customer%20Chur
 Based on these insights, [the second](SME%20Customer%20Churn%20Project/feature_engineering_and_modelling_model_answer.ipynb) file develops features affecting churn and constructs a predictive model using Random Forest.  <br>
 The analysis identifies net margin and consumption as the most influential factors on churn. <br>
 
-## Academic Material
+## Academic Projects
 #### [Mathematical Finance](./Mathematical%20Finance/) contains 3 Python-based projects: <br>
 
 [AMF1](./Mathematical%20Finance/AMF1.ipynb): Calculation of European options. <br>
